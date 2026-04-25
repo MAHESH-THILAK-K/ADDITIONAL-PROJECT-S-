@@ -57,14 +57,6 @@ Designed for real-world applications like **home automation, industrial timers, 
 
 ---
 
-## ⚙️ Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/4CH_RELAY_TIMER.git
-cd 4CH_RELAY_TIMER
-```
-
 ### Setup
 
 * Power using **5V DC**
